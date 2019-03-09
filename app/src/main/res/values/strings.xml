@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string-array name= "opera">
+        <item></item>
+        <item>OP1</item>
+        <item>OP2</item>
+        <item>OP3</item>
+    </string-array>
+</resources>
