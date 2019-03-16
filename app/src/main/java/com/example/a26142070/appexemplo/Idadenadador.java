@@ -38,7 +38,7 @@ public class Idadenadador extends AppCompatActivity {
              String texto = "Sênior";
              categoria.setText(texto);
          }
-         if( id< 5){
+         if( id< 6){
              String texto = "Idade invalida";
              categoria.setText(texto);
          }
