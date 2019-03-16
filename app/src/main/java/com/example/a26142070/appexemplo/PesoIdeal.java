@@ -20,7 +20,7 @@ public class PesoIdeal extends AppCompatActivity {
         resultado = findViewById(R.id.result);
     }
      public void calcularPeso(View v){
-        Double pesoideal;
+        double pesoideal;
         String alt = altura.getText().toString();
         int sexo = refe.getCheckedRadioButtonId();
 
